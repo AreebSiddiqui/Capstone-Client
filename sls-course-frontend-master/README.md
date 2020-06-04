@@ -12,10 +12,11 @@ After 1 hour the bids will be closed automatically.
 AWS LAMBDA | CloudFormation | serverless framework | OAuth
 
 ## How to execute ?
-Forntend:https://github.com/AreebSiddiqui/Capstone-Client/edit/master/sls-course-frontend-master/
+Forntend:https://github.com/AreebSiddiqui/Capstone-Client
+
 Backend:https://github.com/AreebSiddiqui/Serverless-Auctions-App
 
-Clone Frontend install dependencies with `npm install` and start with `npm start`
+Clone Frontend navigate to project, install dependencies with `npm install` and start with `npm start`
 
 Resources form which I have able to complete this project: codingly.io.
 
